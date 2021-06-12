@@ -28,7 +28,7 @@ Next, specify the path to the folder with this project.
 cd "path"
 ```
 
-Next, run the following commands.
+Next, run the following command.
 
 ```
 npm i
