@@ -31,13 +31,7 @@ cd "path"
 Next, run the following commands.
 
 ```
-npm i jquery
-npm i react
-npm i react-dom
-npm i react-scripts
-npm i web-vitals
-npm i -g serve
-npm run build
+npm i
 ```
 
 ## Usage
@@ -51,7 +45,7 @@ cd "path"
 Then write the following.
 
 ```
-serve -s build
+npm start
 ```
 
 The link to the local server appeared in your clipboard, paste it into your browser and follow it.
